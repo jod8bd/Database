@@ -6,7 +6,7 @@ CREATE TABLE classes
     department VARCHAR(4) NOT NULL,
     course_id VARCHAR(6) NOT NULL,
     start TIME,
-end TIME,
-days VARCHAR(2),
-PRIMARY KEY (course_id)
+    end TIME,
+    days VARCHAR(2),
+    PRIMARY KEY (course_id)
 );
