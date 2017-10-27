@@ -1,2 +1,2 @@
 # Database
-In this repository is code where I was playing around with SQL using mariaDB
+Database Applications and Information Systems This repository contains course work that covers the fundamental topics of database management systems (DBMS) and database enabled applications, as they relate to today’s Information Systems (IS). The course will rely heavily on “hands on” learning via weekly lab assignments and periodic homework assignments. Topics covered in this course include a brief history of secondary storage & databases, data modeling, SQL, MYSQL, NoSQL and an overview of current database trends and systems – Big Data.
